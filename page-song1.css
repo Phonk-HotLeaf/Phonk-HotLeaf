@@ -248,8 +248,8 @@ main .box-left-main .box-player-song span{
 
 }
 main .box-left-main .box-player-song audio{
-    border-radius: 0.7rem;
-    border: solid 2px #00fb45;
+    border-radius: 2rem;
+    border: solid 5px #00fb45;
     margin-bottom: 0.5rem;
     margin-top: 0.5rem;
 
